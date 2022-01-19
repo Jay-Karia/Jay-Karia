@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Git-Hub
 - 📫 How to reach me jay.sanjay.karia@gmail.com
-- 🎃 Languages I know: HTML, CSS, Java, JavaScript and Python 
+- 🎃 Languages I know: HTML, CSS, Java, JavaScript, Python and C# 
 - 👀 Want to make Projects (Java and Python) with me? Contact me at jay.sanjay.karia@gmail.com
 - 🌱 My Website will be out there on the web soon, where you can get more information about me!
 <!---
