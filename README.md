@@ -6,7 +6,7 @@
 - 🎃 Languages I know: HTML, CSS, Java, JavaScript, Python and C# 
 - 👀 Want to make Projects with me? Contact me at jay.sanjay.karia@gmail.com
 - 🌱 My Website will be out there on the web soon, where you can get more information about me!
-- 💗 I will create a tech company and will develop India in each every way and will make a best place to live and enjoy.
+- 💗 I will create a tech company and will develop India 🇮🇳
 - 🔴 I will be called as "God of Tech"- JSK, before 2047.
 <!---
 Jay-Karia/Jay-Karia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
