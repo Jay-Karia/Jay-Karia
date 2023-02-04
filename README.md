@@ -81,6 +81,7 @@
 - [**Rate Us**](https://github.com/Jay-Karia/Rate-Us)
 - [**Discord Bots**](https://github.com/Jay-Karia/Discord-Bots)
 - [**Web Scrappers**](https://github.com/Jay-Karia/Web-Scraping/tree/master/Scrappy%20Projects)
+- [**PDF Python Project**](https://github.com/Jay-Karia/PDF-Project)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-karia&show_icons=true&locale=en&layout=compact" alt="jay-karia" /></p>
 
