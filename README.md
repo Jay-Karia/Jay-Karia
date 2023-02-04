@@ -83,19 +83,19 @@
 - [**Web Scrappers**](https://github.com/Jay-Karia/Web-Scraping/tree/master/Scrappy%20Projects)
 - [**PDF Python Project**](https://github.com/Jay-Karia/PDF-Project)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-karia&show_icons=true&locale=en&layout=compact" alt="jay-karia" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-karia&show_icons=true&locale=en&layout=compact&theme=dracula" alt="jay-karia" /></p>
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-karia&show_icons=true&locale=en" alt="jay-karia" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-karia&show_icons=true&locale=en&theme=dracula" alt="jay-karia" /></p>
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-karia&" alt="jay-karia" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-karia&theme=dracula" alt="jay-karia" /></p>
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-karia" alt="jay-karia" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-karia&theme=dracula&margin-w=15" alt="jay-karia" /></a> </p>
 <!-- ## **Technologies I Know 💻**
 ![MongoDB]()
 ![Express.js]()
