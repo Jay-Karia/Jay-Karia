@@ -91,8 +91,13 @@
 <h2 align="center"><b>My Best Projects</b></h2><br>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="20"> <a href="https://github.com/Jay-Karia/Python-Projects"><b>Python Projects</b></a><br>
+</p>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="20"> <a href="https://github.com/Jay-Karia/Java-Projects"><b>Java Projects</b></a><br>
+</p>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="20"> <a href="https://github.com/Jay-Karia/JavaScript-Projects"><b>JavaScript Projects</b></a><br><br>
+</p>
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="20"> <a href="https://github.com/Jay-Karia/Todo-App"><b>Todo App</b></a></p>
 <p align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="20"> <a href="https://github.com/Jay-Karia/Rate-Us"><b>Rate Us</b></a></p>
