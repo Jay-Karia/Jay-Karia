@@ -75,41 +75,45 @@
 
 ---
 
-## **Connect with me**
 <br>
-<p align="left">
+<h2 align="center"><b>Connect With Me</b></h2><br>
+<p align="center">
 <a href="https://twitter.com/jay97844453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jay97844453" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16951432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16951432" height="30" width="40" /></a>
 <a href="https://github.com/Jay-Karia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="16951432" height="30" width="40" /></a>
-
+</p>
 <br>
 
----
-
-## **My Best Projects**
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="20"> [**Python Projects**](https://github.com/Jay-Karia/Python-Projects)
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="20"> [**Java Projects**](https://github.com/Jay-Karia/Java-Projects)
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="20"> [**JavaScript Projects**](https://github.com/Jay-Karia/JavaScript-Projects)
-
-- [**Todo App**](https://github.com/Jay-Karia/Todo-App)
-- [**Rate Us**](https://github.com/Jay-Karia/Rate-Us)
-- [**Discord Bots**](https://github.com/Jay-Karia/Discord-Bots)
-- [**Web Scrappers**](https://github.com/Jay-Karia/Web-Scraping/tree/master/Scrappy%20Projects)
-- [**PDF Python Project**](https://github.com/Jay-Karia/PDF-Project)
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-karia&show_icons=true&locale=en&layout=compact&theme=dracula" alt="jay-karia" /></p>
 
 ---
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-karia&show_icons=true&locale=en&theme=dracula" alt="jay-karia" /></p>
+<br>
+<h2 align="center"><b>My Best Projects</b></h2><br>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="20"> <a href="https://github.com/Jay-Karia/Python-Projects"><b>Python Projects</b></a><br>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="20"> <a href="https://github.com/Jay-Karia/Java-Projects"><b>Java Projects</b></a><br>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="20"> <a href="https://github.com/Jay-Karia/JavaScript-Projects"><b>JavaScript Projects</b></a><br><br>
 
----
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="20"> <a href="https://github.com/Jay-Karia/Todo-App"><b>Todo App</b></a></p>
+<p align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="20"> <a href="https://github.com/Jay-Karia/Rate-Us"><b>Rate Us</b></a></p>
+<p align="center"><img src="https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ" height="20"> <a href="https://github.com/Jay-Karia/Discord-Bots"><b>Dicord Bots</b></a></p>
+<p align="center"><img src="https://avatars.githubusercontent.com/u/28140896?s=280&v=4" height="20"> <a href="https://github.com/Jay-Karia/Web-Scraping"><b>Web Scrappers</b></a></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png" height="20"> <a href="https://github.com/Jay-Karia/PDF-Project"><b>Python PDF Project</b></a></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-karia&theme=dracula" alt="jay-karia" /></p>
+<br>
+<h2 align="center"><b>View my Other Projects on</b></h2>
+<p align="center"><a href="https://replit.com/@JaySK"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/></a></p>
 
----
+<br>
+<br>
+<h1 align="center"><b>My GitHub Stats 📉</b></h1>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-karia&show_icons=true&locale=en&layout=compact&theme=light" alt="jay-karia" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-karia&theme=dracula&margin-w=15" alt="jay-karia" /></a> </p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-karia&show_icons=true&locale=en&theme=light" alt="jay-karia" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-karia&theme=light" alt="jay-karia" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-karia&theme=light&margin-w=15" alt="jay-karia" /></a> </p>
 <!-- ## **Technologies I Know 💻**
 ![MongoDB]()
 ![Express.js]()
