@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Socket.IO**
 
+- 🔮 Future Project: **Hello - Chat App** (Design files are uploaded <a href="https://github.com/Jay-Karia/Hello">here</a>)
+
 - 👨‍💻 All of my projects are available at [https://github.com/Jay-Karia](https://github.com/Jay-Karia)
 
 - 💬 Ask me about **Web Development (MERN Stack)**
