@@ -83,6 +83,7 @@
 <a href="https://twitter.com/jay97844453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jay97844453" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16951432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16951432" height="30" width="40" /></a>
 <a href="https://github.com/Jay-Karia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="16951432" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/Jay-Karia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="16951432" height="30" width="40" /></a>
 </p>
 <br>
 
