@@ -123,10 +123,3 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-karia&theme=light" alt="jay-karia" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-karia&theme=light&margin-w=15" alt="jay-karia" /></a> </p>
-<!-- ## **Technologies I Know 💻**
-![MongoDB]()
-![Express.js]()
-![React.js]()
-![Node.js]()
-![JSON]()
-![JSON Web Tokens]()
