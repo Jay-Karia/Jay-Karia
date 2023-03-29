@@ -5,7 +5,9 @@
 
 - 👯 16 y/o, Self Taught Full Stack Web Developer
 
-- 🔮 Future Project: **Hello - Chat App** (Design files are uploaded <a href="https://github.com/Jay-Karia/Hello">here</a>)
+<div style="width:350px;height:200px;background-color:#c95cd1;border-radius:10px;outline:2px solid black;outline-offset:4px;margin:20px 0">
+
+</div>
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Jay-Karia?tab=repositories)
 
