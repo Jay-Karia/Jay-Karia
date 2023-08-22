@@ -94,6 +94,15 @@
 ---
 
 <br>
+<h2 align="center"><b>My "G.O.A.T.ed" Projects</b></h2><br>
+
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="20"> <a href="https://github.com/Jay-Karia/Todo-App"><b>Todo App</b></a> <a href="https://jay-karia.github.io/Todo-App/">(See Demo)</a></p>
+
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Eo_circle_purple_letter-h.svg/1200px-Eo_circle_purple_letter-h.svg.png" height="20"> <a href="https://github.com/Jay-Karia/Hello"><b>Hello - Chat App</b></a></p>
+
+<p align="center"><img src="https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png?w=700&h=456" height="20"> <a href="https://github.com/Jay-Karia/MoviesFlix"><b>MoviesFlix</b></a></p>
+
+<br>
 <h2 align="center"><b>My Best Projects</b></h2><br>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="20"> <a href="https://github.com/Jay-Karia/Python-Projects"><b>Python Projects</b></a> <a href="https://replit.com/@JaySK?path=folder/Python%20Projects">(See Demo)</a><br>
@@ -105,7 +114,6 @@
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="20"> <a href="https://github.com/Jay-Karia/JavaScript-Projects"><b>JavaScript Projects</b></a> <a href="https://replit.com/@JaySK">(See Demo)</a><br><br>
 </p>
 
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="20"> <a href="https://github.com/Jay-Karia/Todo-App"><b>Todo App</b></a> <a href="https://jay-karia.github.io/Todo-App/">(See Demo)</a></p>
 <p align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="20"> <a href="https://github.com/Jay-Karia/Rate-Us"><b>Rate Us</b></a></p>
 <p align="center"><img src="https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ" height="20"> <a href="https://github.com/Jay-Karia/Discord-Bots"><b>Dicord Bots</b></a></p>
 <p align="center"><img src="https://avatars.githubusercontent.com/u/28140896?s=280&v=4" height="20"> <a href="https://github.com/Jay-Karia/Web-Scraping"><b>Web Scrappers</b></a></p>
