@@ -40,8 +40,11 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
 <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
@@ -101,7 +104,7 @@
 
 <p align="center"><img src="https://github.com/Jay-Karia/PassVault/blob/main/frontend/public/PassVault_2.png?raw=true" height="20"> <a href="https://github.com/Jay-Karia/PassVault"><b>PassVault</b></a> ⚠</p>
 
-<p align="center"><img src="https://camo.githubusercontent.com/89952eee0fa81a5808dcdc94aef91c11cde7eafb736ead271c28d6928475a760/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3730342f3539392f706e672d7472616e73706172656e742d63616c656e6461722d646174652d636f6d70757465722d69636f6e732d6167656e64612d6f74686572732d746578742d63616c656e6461722d6c6f676f2e706e67" style="border-radius:100%" height="20"> <a href="https://github.com/Jay-Karia/MoviesFlix"><b>TimeTable Gen</b></a> ⚠</p>
+<p align="center"><img src="https://cdn4.vectorstock.com/i/1000x1000/98/23/calendar-icon-on-black-background-for-graphic-vector-23529823.jpg" style="border-radius:100%" height="20"> <a href="https://github.com/Jay-Karia/MoviesFlix"><b>TimeTable Gen</b></a> ⚠</p>
 
 <br>
 <h2 align="center"><b>My Other Projects</b></h2><br>
