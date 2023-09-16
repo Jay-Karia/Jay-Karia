@@ -94,16 +94,20 @@
 ---
 
 <br>
-<h2 align="center"><b>My "G.O.A.T.ed" Projects</b></h2><br>
+<h2 align="center"><b>My Portfolio Projects</b></h2><br>
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="20"> <a href="https://github.com/Jay-Karia/Todo-App"><b>Todo App</b></a> <a href="https://jay-karia.github.io/Todo-App/">(See Demo)</a></p>
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Eo_circle_purple_letter-h.svg/1200px-Eo_circle_purple_letter-h.svg.png" height="20"> <a href="https://github.com/Jay-Karia/Hello"><b>Hello - Chat App</b></a></p>
 
-<p align="center"><img src="https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png?w=700&h=456" height="20"> <a href="https://github.com/Jay-Karia/MoviesFlix"><b>MoviesFlix</b></a></p>
+<p align="center"><img src="https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png?w=700&h=456" height="20"> <a href="https://github.com/Jay-Karia/MoviesFlix"><b>MoviesFlix</b></a> ⚠</p>
+
+<p align="center"><img src="https://github.com/Jay-Karia/PassVault/blob/main/frontend/public/PassVault_2.png?raw=true" height="20"> <a href="https://github.com/Jay-Karia/PassVault"><b>PassVault</b></a> ⚠</p>
+
+<p align="center"><img src="https://camo.githubusercontent.com/89952eee0fa81a5808dcdc94aef91c11cde7eafb736ead271c28d6928475a760/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3730342f3539392f706e672d7472616e73706172656e742d63616c656e6461722d646174652d636f6d70757465722d69636f6e732d6167656e64612d6f74686572732d746578742d63616c656e6461722d6c6f676f2e706e67" style="border-radius:100%" height="20"> <a href="https://github.com/Jay-Karia/MoviesFlix"><b>TimeTable Gen</b></a> ⚠</p>
 
 <br>
-<h2 align="center"><b>My Best Projects</b></h2><br>
+<h2 align="center"><b>My Other Projects</b></h2><br>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="20"> <a href="https://github.com/Jay-Karia/Python-Projects"><b>Python Projects</b></a> <a href="https://replit.com/@JaySK?path=folder/Python%20Projects">(See Demo)</a><br>
 </p>
