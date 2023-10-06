@@ -100,8 +100,6 @@
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Eo_circle_purple_letter-h.svg/1200px-Eo_circle_purple_letter-h.svg.png" height="20"> <a href="https://github.com/Jay-Karia/Hello"><b>Hello - Chat App</b></a></p>
 
-<p align="center"><img src="https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png?w=700&h=456" height="20"> <a href="https://github.com/Jay-Karia/MoviesFlix"><b>MoviesFlix</b></a> ⚠</p>
-
 <p align="center"><img src="https://github.com/Jay-Karia/PassVault/blob/main/frontend/public/PassVault_2.png?raw=true" height="20"> <a href="https://github.com/Jay-Karia/PassVault"><b>PassVault</b></a> ⚠</p>
 
 <p align="center"><img src="https://cdn4.vectorstock.com/i/1000x1000/98/23/calendar-icon-on-black-background-for-graphic-vector-23529823.jpg" style="border-radius:100%" height="20"> <a href="https://github.com/Jay-Karia/MoviesFlix"><b>TimeTable Gen</b></a> ⚠</p>
