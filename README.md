@@ -90,22 +90,17 @@
 </p>
 <br>
 
-
 ---
 
 <br>
-<h2 align="center"><b>My Portfolio Projects</b></h2><br>
+<h2 align="center"><b>My Projects</b></h2><br>
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="20"> <a href="https://github.com/Jay-Karia/Todo-App"><b>Todo App</b></a> <a href="https://jay-karia.github.io/Todo-App/">(See Demo)</a></p>
-
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Eo_circle_purple_letter-h.svg/1200px-Eo_circle_purple_letter-h.svg.png" height="20"> <a href="https://github.com/Jay-Karia/Hello"><b>Hello - Chat App</b></a></p>
-
 <p align="center"><img src="https://github.com/Jay-Karia/PassVault/blob/main/frontend/public/PassVault_2.png?raw=true" height="20"> <a href="https://github.com/Jay-Karia/PassVault"><b>PassVault</b></a> ⚠</p>
-
 <p align="center"><img src="https://cdn4.vectorstock.com/i/1000x1000/98/23/calendar-icon-on-black-background-for-graphic-vector-23529823.jpg" style="border-radius:100%" height="20"> <a href="https://github.com/Jay-Karia/MoviesFlix"><b>TimeTable Gen</b></a> ⚠</p>
-
-<br>
-<h2 align="center"><b>My Other Projects</b></h2><br>
+<p align="center"><img src="https://i.pinimg.com/originals/06/c4/f7/06c4f70ec5931e2342e703e8a3f0a253.png" height="20"> <a href="https://github.com/Jay-Karia/Next.js/tree/main/weather-app"><b>Weather App AI</b></a></p>
+<br></br>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="20"> <a href="https://github.com/Jay-Karia/Python-Projects"><b>Python Projects</b></a> <a href="https://replit.com/@JaySK?path=folder/Python%20Projects">(See Demo)</a><br>
 </p>
