@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jay</h1>
-<h3 align="center">God Of Tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-karia&label=Profile%20views&color=0e75b6&style=flat" alt="jay-karia" /> </p>
 
