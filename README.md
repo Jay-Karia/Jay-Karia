@@ -63,6 +63,8 @@
 <p align="center"><img src="https://i.pinimg.com/originals/06/c4/f7/06c4f70ec5931e2342e703e8a3f0a253.png" height="20"> <a href="https://github.com/Jay-Karia/Next.js/tree/main/weather-app"><b>Weather App AI</b> <a href="https://next-js-ebon-xi.vercel.app/">(See Demo)</a></a></p>
 <p align="center"><img src="https://cdn2.vectorstock.com/i/1000x1000/94/91/bug-line-icon-on-black-background-flat-style-vector-25959491.jpg" style="border-radius:100%" height="20"> <a href="https://github.com/Jay-Karia/Next.js/tree/main/issue-tracker"><b>Issue Tracker</b></a></p>
 <p align="center"><img src="https://cdn-icons-png.flaticon.com/128/2807/2807697.png" style="border-radius:100%" height="20"> <a href="https://github.com/Jay-Karia/CityFlavors"><b>CityFlavors</b></a></p>
+<p align="center">♟️ <a href="https://github.com/Jay-Karia/card-chess"><b>Card Chess</b></a></p>
+<p align="center">🗄 <a href="https://github.com/Jay-Karia/database-api"><b>Database API</b></a></p>
 <br></br>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="20"> <a href="https://github.com/Jay-Karia/Python-Projects"><b>Python Projects</b></a> <a href="https://replit.com/@JaySK?path=folder/Python%20Projects">(See Demo)</a><br>
