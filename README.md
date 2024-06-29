@@ -9,6 +9,7 @@
 - 📫 How to reach me **jay.sanjay.karia@gmail.com**
 
 ---
+
 <br>
 <h2 align="center"><b>Languages</b></h2><br>
 <p align="center">
@@ -28,6 +29,7 @@
 <h2 align="center"><b>Technologies</b></h2><br>
 <p align="center">
   <img src = "https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://raw.githubusercontent.com/Jay-Karia/Jay-Karia/main/assets/typescript.png" alt="Python" width="40" height="40"/>
   <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src = "https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
   <img src = "https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
