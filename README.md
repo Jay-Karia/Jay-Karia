@@ -67,6 +67,7 @@
 <p align="center"><img src="https://cdn-icons-png.flaticon.com/128/2807/2807697.png" style="border-radius:100%" height="20"> <a href="https://github.com/Jay-Karia/CityFlavors"><b>CityFlavors</b></a></p>
 <p align="center">♟️ <a href="https://github.com/Jay-Karia/card-chess"><b>Card Chess</b></a></p>
 <p align="center">🗄 <a href="https://github.com/Jay-Karia/database-api"><b>Database API</b></a></p>
+<p align="center">⭕ <a href="https://github.com/Jay-Karia/ultra-tic"><b>Ultra Tic Tac Toe</b></a></p>
 <br></br>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="20"> <a href="https://github.com/Jay-Karia/Python-Projects"><b>Python Projects</b></a> <a href="https://replit.com/@JaySK?path=folder/Python%20Projects">(See Demo)</a><br>
