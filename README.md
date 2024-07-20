@@ -91,10 +91,9 @@
 <br>
 <br>
 <h1 align="center"><b>My GitHub Stats 📉</b></h1>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-karia&show_icons=true&locale=en&layout=compact&theme=light" alt="jay-karia" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-karia&show_icons=true&locale=en&theme=light" alt="jay-karia" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-karia&show_icons=true&locale=en&theme=dark" alt="jay-karia" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-karia&theme=light" alt="jay-karia" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-karia&theme=dark" alt="jay-karia" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-karia&theme=light&margin-w=15" alt="jay-karia" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-karia&theme=onedark&margin-w=15&no-bg=true" alt="jay-karia" /></a> </p>
