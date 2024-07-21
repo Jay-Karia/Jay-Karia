@@ -2,29 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-karia&label=Profile%20views&color=0e75b6&style=flat" alt="jay-karia" /> </p>
 
-- 👨‍💻 All of my projects are available [here](https://github.com/Jay-Karia?tab=repositories)
-
-- 💬 Ask me about **Full Stack Web Development**
-
-- 📫 How to reach me **jay.sanjay.karia@gmail.com**
-
----
-
-<br>
-<h2 align="center"><b>Languages</b></h2><br>
-<p align="center">
-<img src = "https://img.shields.io/badge/HTML%205-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src = "https://img.shields.io/badge/css%203-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-<img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src = "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-</p>
-<br>
-
----
-
 <br>
 <h2 align="center"><b>Technologies</b></h2><br>
 <p align="center">
@@ -34,27 +11,10 @@
   <img src="https://raw.githubusercontent.com/Jay-Karia/Jay-Karia/main/assets/shadcn.png" alt="Shadcn UI" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/Jay-Karia/Jay-Karia/main/assets/prisma.png" alt="Prisma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/Jay-Karia/Jay-Karia/main/assets/mongo.png" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Jay-Karia/Jay-Karia/main/assets/zustand.png" alt="Zustand" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/Jay-Karia/Jay-Karia/main/assets/nextauth.png" alt="NextAuth" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/Jay-Karia/Jay-Karia/main/assets/clerk.png" alt="Clerk" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/Jay-Karia/Jay-Karia/main/assets/hono.png" alt="Hono" width="40" height="40"/>
 </p>
-<br>
-
----
-
-<br>
-<h2 align="center"><b>Connect With Me</b></h2><br>
-<p align="center">
-<a href="https://twitter.com/jay97844453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jay97844453" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16951432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16951432" height="30" width="40" /></a>
-<a href="https://github.com/Jay-Karia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="16951432" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/Jay-Karia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="16951432" height="30" width="40" /></a>
-<a href="https://replit.com/@JaySK" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png" alt="16951432" height="30" width="40" /></a>
-</p>
-<br>
-
----
 
 <br>
 <h2 align="center"><b>My Projects</b></h2><br>
@@ -85,15 +45,11 @@
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png" height="20"> <a href="https://github.com/Jay-Karia/PDF-Project"><b>Python PDF Project</b></a></p>
 
 <br>
-<h2 align="center"><b>View my Other Projects on</b></h2>
-<p align="center"><a href="https://replit.com/@JaySK"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/></a></p>
+<h2 align="center"><b>GitHub Stats 📉</b></h2>
 
-<br>
-<br>
-<h1 align="center"><b>My GitHub Stats 📉</b></h1>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-karia&show_icons=true&locale=en&theme=dark" alt="jay-karia stats" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-karia&show_icons=true&locale=en&theme=dark" alt="jay-karia" /></p>
+<p align="center">
+</p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-karia&theme=dark" alt="jay-karia" /></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-karia&theme=onedark&margin-w=15&no-bg=true" alt="jay-karia" /></a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=jay-karia&theme=onedark&margin-w=15&rank=-B,-C" alt="jay-karia trophies" />
