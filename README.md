@@ -49,7 +49,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-karia&show_icons=true&locale=en&theme=dark" alt="jay-karia stats" /></p>
 
-<p align="center">
-</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=jay-karia&theme=onedark&margin-w=15&rank=-B,-C" alt="jay-karia trophies" />
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jay-karia&theme=onedark&margin-w=5&column=5&rank=-B,-C" alt="jay-karia trophies" />
+</div>
