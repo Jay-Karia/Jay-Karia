@@ -47,7 +47,7 @@
 <br>
 <h2 align="center"><b>GitHub Stats 📉</b></h2>
 
-<p align="center"><img align="center" src="https://github-readme-stats-rust-omega-82.vercel.app/api?username=Jay-Karia&theme=aura&show=reviews" alt="jay-karia stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jay-Karia&theme=aura&show=reviews" alt="jay-karia stats" /></p>
 
 
 <div align="center">
