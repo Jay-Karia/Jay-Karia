@@ -48,8 +48,3 @@
 <h2 align="center"><b>GitHub Stats 📉</b></h2>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jay-Karia&theme=aura&show=reviews" alt="jay-karia stats" /></p>
-
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jay-karia&theme=onedark&margin-w=5&column=5&rank=-B,-C" alt="jay-karia trophies" />
-</div>
