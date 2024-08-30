@@ -24,7 +24,7 @@
 <p align="center">♟️ <a href="https://github.com/Jay-Karia/card-chess"><b>Card Chess</b></a></p>
 <p align="center">🗄 <a href="https://github.com/Jay-Karia/database-api"><b>Database API</b></a></p>
 <p align="center">⭕ <a href="https://github.com/Jay-Karia/ultra-tic"><b>Ultra Tic Tac Toe</b></a></p>
-<p align="center">📒 <a href="https://github.com/Jay-Karia/notes"><b>Notes</b></a></p>
+<p align="center"><img src="/assets/tasks.png" height="20"> <a href="https://github.com/Jay-Karia/tasks"> <a href="https://github.com/Jay-Karia/notes"><b>Notes</b></a></p>
 <p align="center"><img src="/assets/tasks.png" height="20"> <a href="https://github.com/Jay-Karia/tasks"><b>Tasks</b></a></p>
 <br>
 <h2 align="center"><b>GitHub Stats 📉</b></h2>
