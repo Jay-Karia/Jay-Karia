@@ -29,6 +29,6 @@
 <p align="center">🎨 <a href="https://github.com/Jay-Karia/pigment-ts"><b>PigmentTS</b></a></p>
 
 <br>
-<h2 align="center"><b>GitHub Stats 📉</b></h2>
+<h2 align="center"><b>GitHub Stats 📈</b></h2>
 
 <p align="center"><img align="center" src="https://github-readme-stats-rust-omega-82.vercel.app/api?username=Jay-Karia&theme=aura&show=reviews" alt="jay-karia stats" /></p>
