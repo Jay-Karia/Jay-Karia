@@ -28,6 +28,7 @@
 <p align="center"><img src="/assets/tasks.png" height="20"> <a href="https://github.com/Jay-Karia/tasks"><b>Tasks</b></a></p>
 <p align="center">🎨 <a href="https://github.com/Jay-Karia/pigment-ts"><b>PigmentTS</b></a></p>
 <p align="center">⛅ <a href="https://github.com/Jay-Karia/aero-cli"><b>AeroCLI</b></a></p>
+<p align="center">🖼️ <a href="https://github.com/Jay-Karia/awesome-icons"><b>Awesome Icons</b></a></p>
 
 <br>
 <h2 align="center"><b>GitHub Stats 📈</b></h2>
