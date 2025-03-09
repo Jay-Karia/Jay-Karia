@@ -32,5 +32,5 @@ import { <a href="https://github.com/Jay-Karia/aero-cli">AeroCLI</a> } from "jay
 
 ```typescript
 await getGitHubStats("Jay-Karia");
-// https://github-readme-stats-rust-omega-82.vercel.app/api?username=Jay-Karia&theme=aura&show=reviews
 ```
+<img src="https://github-readme-stats-rust-omega-82.vercel.app/api?username=Jay-Karia&theme=aura&show=reviews" alt="jay-karia stats" />
