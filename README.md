@@ -17,14 +17,14 @@ eslint.configs.recommended                         // ESLint
 <pre>
 # Projects
 
-import { <a href="https://github.com/Jay-Karia/Hello">Hello</a> } from "jay-karia"
-import { <a href="https://github.com/Jay-Karia/card-chess">CardChess</a> } from "jay-karia"
-import { <a href="https://github.com/Jay-Karia/database-api">DatabaseAPI</a> } from "jay-karia"
-import { <a href="https://github.com/Jay-Karia/ultra-tic">UltraTicTacToe</a> } from "jay-karia"
-import { <a href="https://github.com/Jay-Karia/notes">Notes</a> } from "jay-karia"
-import { <a href="https://github.com/Jay-Karia/tasks">Tasks</a> } from "jay-karia"
-import { <a href="https://github.com/Jay-Karia/pigment-ts">PigmentTS</a> } from "jay-karia"
-import { <a href="https://github.com/Jay-Karia/aero-cli">AeroCLI</a> } from "jay-karia"
+import { 🗨 <a href="https://github.com/Jay-Karia/Hello">Hello</a> } from "jay-karia"
+import { 👑 <a href="https://github.com/Jay-Karia/card-chess">CardChess</a> } from "jay-karia"
+import { 💾 <a href="https://github.com/Jay-Karia/database-api">DatabaseAPI</a> } from "jay-karia"
+import { ⭕ <a href="https://github.com/Jay-Karia/ultra-tic">UltraTicTacToe</a> } from "jay-karia"
+import { 📓 <a href="https://github.com/Jay-Karia/notes">Notes</a> } from "jay-karia"
+import { 📋 <a href="https://github.com/Jay-Karia/tasks">Tasks</a> } from "jay-karia"
+import { 🎨 <a href="https://github.com/Jay-Karia/pigment-ts">PigmentTS</a> } from "jay-karia"
+import { ⛅ <a href="https://github.com/Jay-Karia/aero-cli">AeroCLI</a> } from "jay-karia"
 
 </pre>
 
