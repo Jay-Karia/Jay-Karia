@@ -24,7 +24,7 @@ import { ⭕ <a href="https://github.com/Jay-Karia/ultra-tic"><b>UltraTicTacToe<
 import { 📓 <a href="https://github.com/Jay-Karia/notes"><b>Notes</b></a> } from "jay-karia"
 import { 📋 <a href="https://github.com/Jay-Karia/tasks"><b>Tasks</b></a> } from "jay-karia"
 import { 🎨 <a href="https://github.com/Jay-Karia/pigment-ts"><b>PigmentTS</b></a> } from "jay-karia"
-import { ⛅ <a href="https://github.com/Jay-Karia/aero-cli"><b>AeroCLI</b>b></a> } from "jay-karia"
+import { ⛅ <a href="https://github.com/Jay-Karia/aero-cli"><b>AeroCLI</b></a> } from "jay-karia"
 import { 🖼️ <a href="https://github.com/Jay-Karia/awesome-icons"><b>Awesome Icons</b></a> } from "jay-karia"
 
 </pre>
