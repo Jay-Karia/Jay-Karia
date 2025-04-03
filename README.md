@@ -1,17 +1,18 @@
 ```typescript
 # Tech
 
-let language: Typescript;                          // Typescript
-"use nextjs"                                       // Next.js
-<div className="tailwindcss-logo"/>                // TailwindCSS
-<ShadcnUI variant="icon"/>                         // ShadcnUI
-prisma.connect("mongodb://localhost:2023");        // Prisma and MongoDB
-nextauth.signIn("clerk");                          // NextAuth and Clerk
-app.server.use(hono);                              // Hono
-expect(libraries.testing).toBe("Vitest");          // Vitest
-npx esbuild src/index.ts --outfile=dist/index.js   // esbuild
-eslint.configs.recommended                         // ESLint
-{ "formatter": "prettier" }                        // Prettier
+let language: Typescript | C;                        // Typescript
+> gcc about.c -o about && ./about                    // C
+"use nextjs"                                         // Next.js
+<div className="tailwindcss-logo"/>                  // TailwindCSS
+<ShadcnUI variant="icon"/>                           // ShadcnUI
+prisma.connect("mongodb://localhost:2023");          // Prisma and MongoDB
+nextauth.signIn("clerk");                            // NextAuth and Clerk
+app.server.use(hono);                                // Hono
+expect(libraries.testing).toBe("Vitest");            // Vitest
+> npx esbuild src/index.ts --outfile=dist/index.js   // esbuild
+eslint.configs.recommended                           // ESLint
+{ "formatter": "prettier" }                          // Prettier
 ```
 
 <pre>
