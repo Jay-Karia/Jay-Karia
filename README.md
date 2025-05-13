@@ -27,6 +27,7 @@ import { 📋 <a href="https://github.com/Jay-Karia/tasks"><b>Tasks</b></a> } fr
 import { 🎨 <a href="https://github.com/Jay-Karia/pigment-ts"><b>PigmentTS</b></a> } from "jay-karia"
 import { ⛅ <a href="https://github.com/Jay-Karia/aero-cli"><b>AeroCLI</b></a> } from "jay-karia"
 import { 🖼️ <a href="https://github.com/Jay-Karia/awesome-icons"><b>Awesome Icons</b></a> } from "jay-karia"
+import { ⚡ <a href="https://github.com/Jay-Karia/jqlite"><b>JQLite</b></a> } from "jay-karia"
 
 </pre>
 
