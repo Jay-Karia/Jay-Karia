@@ -20,14 +20,13 @@ eslint.configs.recommended                           // ESLint
 
 import { 🗨 <a href="https://github.com/Jay-Karia/Hello"><b>Hello</b></a> } from "jay-karia"
 import { 👑 <a href="https://github.com/Jay-Karia/card-chess"><b>CardChess</b></a> } from "jay-karia"
-import { 💾 <a href="https://github.com/Jay-Karia/database-api"><b>DatabaseAPI</b></a> } from "jay-karia"
 import { ⭕ <a href="https://github.com/Jay-Karia/ultra-tic"><b>UltraTicTacToe</b></a> } from "jay-karia"
-import { 📓 <a href="https://github.com/Jay-Karia/notes"><b>Notes</b></a> } from "jay-karia"
 import { 📋 <a href="https://github.com/Jay-Karia/tasks"><b>Tasks</b></a> } from "jay-karia"
 import { 🎨 <a href="https://github.com/Jay-Karia/pigment-ts"><b>PigmentTS</b></a> } from "jay-karia"
 import { ⛅ <a href="https://github.com/Jay-Karia/aero-cli"><b>AeroCLI</b></a> } from "jay-karia"
 import { 🖼️ <a href="https://github.com/Jay-Karia/awesome-icons"><b>Awesome Icons</b></a> } from "jay-karia"
 import { ⚡ <a href="https://github.com/Jay-Karia/jqlite"><b>JQLite</b></a> } from "jay-karia"
+import { 💳 <a href="https://github.com/Jay-Karia/finance-sync"><b>Finance Sync</b></a> } from "jay-karia"
 
 </pre>
 
