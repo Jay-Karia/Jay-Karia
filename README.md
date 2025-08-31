@@ -27,6 +27,7 @@ import { ⛅ <a href="https://github.com/Jay-Karia/aero-cli"><b>AeroCLI</b></a> 
 import { 🖼️ <a href="https://github.com/Jay-Karia/awesome-icons"><b>Awesome Icons</b></a> } from "jay-karia"
 import { ⚡ <a href="https://github.com/Jay-Karia/jqlite"><b>JQLite</b></a> } from "jay-karia"
 import { 💳 <a href="https://github.com/Jay-Karia/finance-sync"><b>Finance Sync</b></a> } from "jay-karia"
+import { 🎂 <a href="https://github.com/Jay-Karia/birthday-messenger"><b>Birthday Messenger</b></a> } from "jay-karia"
 
 </pre>
 
