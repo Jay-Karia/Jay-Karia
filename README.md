@@ -30,6 +30,7 @@ import { 💳 <a href="https://github.com/Jay-Karia/finance-sync"><b>Finance Syn
 import { 🎂 <a href="https://github.com/Jay-Karia/birthday-messenger"><b>Birthday Messenger</b></a> } from "jay-karia"
   
 #include <<a href="https://github.com/Jay-Karia/fitlog">fitlog.h</a>>
+#include <<a href="https://github.com/Jay-Karia/sea-shell">shell.h</a>>
 
 </pre>
 
