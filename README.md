@@ -20,11 +20,8 @@ eslint.configs.recommended                           // ESLint
 
 import { 🗨 <a href="https://github.com/Jay-Karia/Hello"><b>Hello</b></a> } from "jay-karia"
 import { 👑 <a href="https://github.com/Jay-Karia/card-chess"><b>CardChess</b></a> } from "jay-karia"
-import { ⭕ <a href="https://github.com/Jay-Karia/ultra-tic"><b>UltraTicTacToe</b></a> } from "jay-karia"
-import { 📋 <a href="https://github.com/Jay-Karia/tasks"><b>Tasks</b></a> } from "jay-karia"
 import { 🎨 <a href="https://github.com/Jay-Karia/pigment-ts"><b>PigmentTS</b></a> } from "jay-karia"
 import { ⛅ <a href="https://github.com/Jay-Karia/aero-cli"><b>AeroCLI</b></a> } from "jay-karia"
-import { 🖼️ <a href="https://github.com/Jay-Karia/awesome-icons"><b>Awesome Icons</b></a> } from "jay-karia"
 import { ⚡ <a href="https://github.com/Jay-Karia/jqlite"><b>JQLite</b></a> } from "jay-karia"
 import { 💳 <a href="https://github.com/Jay-Karia/finance-sync"><b>Finance Sync</b></a> } from "jay-karia"
 import { 🎂 <a href="https://github.com/Jay-Karia/birthday-messenger"><b>Birthday Messenger</b></a> } from "jay-karia"
@@ -33,12 +30,14 @@ import { 🎂 <a href="https://github.com/Jay-Karia/birthday-messenger"><b>Birth
 #include <<a href="https://github.com/Jay-Karia/sea-shell">shell.h</a>>
 
 <a href="https://github.com/Jay-Karia/wherewasi">Where Was I</a>
+<a href="https://github.com/Jay-Karia/ekalavya">Ekalavya</a>
+<a href="https://github.com/Jay-Karia/kinetix">Course Craft</a>
+
+# Coming Soon
+
+<a href="https://github.com/Jay-Karia/sky-scrape">Sky Scrape</a>
+<a href="https://github.com/Jay-Karia/condense">Condense</a>
 
 </pre>
 
-
-
-```typescript
-await getGitHubStats("Jay-Karia");
-```
 <img src="https://github-readme-stats-rust-omega-82.vercel.app/api?username=Jay-Karia&theme=aura&show=reviews" alt="jay-karia stats" />
