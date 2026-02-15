@@ -37,6 +37,7 @@ import { 🎂 <a href="https://github.com/Jay-Karia/birthday-messenger"><b>Birth
 
 <a href="https://github.com/Jay-Karia/sky-scrape">Sky Scrape</a>
 <a href="https://github.com/Jay-Karia/condense">Condense</a>
+Campus Connect
 
 </pre>
 
