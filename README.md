@@ -33,12 +33,6 @@ import { 🎂 <a href="https://github.com/Jay-Karia/birthday-messenger"><b>Birth
 <a href="https://github.com/Jay-Karia/ekalavya">Ekalavya</a>
 <a href="https://github.com/Jay-Karia/kinetix">Course Craft</a>
 
-# Coming Soon
-
-<a href="https://github.com/Jay-Karia/sky-scrape">Sky Scrape</a>
-<a href="https://github.com/Jay-Karia/condense">Condense</a>
-Campus Connect
-
 </pre>
 
 <img src="https://github-readme-stats-rust-omega-82.vercel.app/api?username=Jay-Karia&theme=aura&show=reviews" alt="jay-karia stats" />
