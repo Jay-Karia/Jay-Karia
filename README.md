@@ -30,7 +30,6 @@ import { 🎂 <a href="https://github.com/Jay-Karia/birthday-messenger"><b>Birth
 #include <<a href="https://github.com/Jay-Karia/sea-shell">shell.h</a>>
 
 <a href="https://github.com/Jay-Karia/wherewasi">Where Was I</a>
-<a href="https://github.com/Jay-Karia/ekalavya">Ekalavya</a>
 <a href="https://github.com/Jay-Karia/kinetix">Course Craft</a>
 
 </pre>
