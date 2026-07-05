@@ -13,6 +13,9 @@ expect(libraries.testing).toBe("Vitest");            // Vitest
 > npx esbuild src/index.ts --outfile=dist/index.js   // esbuild
 eslint.configs.recommended                           // ESLint
 { "formatter": "prettier" }                          // Prettier
+
+Electron
+React Native
 ```
 
 <pre>
